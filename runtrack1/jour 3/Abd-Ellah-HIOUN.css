@@ -1,0 +1,77 @@
+body{
+    background-color:beige;
+    display: flex;
+    flex-direction: row;
+}
+img{
+    border-radius: 30px;
+    height: 15vw;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+main{
+    display: inline;
+    margin-left: 5vw;
+}
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    /*padding-left: 44vw;*/
+     
+}
+h2
+{
+ font-family:Arial, Helvetica, sans-serif, bold ;
+ font-size: 2em;
+ 
+}
+.p1{
+    font-size: 2vw;
+    font-family: Arial, Helvetica, sans-serif;
+margin: -1px;
+}
+.p2{
+    font-size: 28px;
+    font-family: Arial, Helvetica, sans-serif;
+margin: 10px;
+position: relative;
+}
+.p3
+{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight:bold ;
+font-size: 2em;
+}
+.p4
+{
+    font-family: Arial, Helvetica, sans-serif;
+font-size: 2vw;
+margin: 10px;
+}
+.p5
+{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 2em;
+font-weight: bolder;
+}
+.p6
+{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 2vw;
+    margin: 10px;
+}
+.rectangle{
+   
+        height: 18vw;
+        width: 30vh;
+        background-color:aqua;
+        border-radius: 30px;
+    
+      }
+      #Qualité{
+        margin-top: 90px;
+        text-align: left;
+      }
+#Experience{
+    display:flex ;
+    flex-direction: row;
+}

@@ -1,0 +1,22 @@
+
+img{
+    margin-left:28cm;
+    border-style:groove;
+    border-width: 5px;
+    border-color: black;
+   
+}
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    position: relative;
+bottom: 300px;
+padding-left: 5cm;
+}
+h2{
+    font-family: Arial, Helvetica, sans-serif;
+    position: relative;
+    bottom: 7cm;
+    padding-left: 5cm;
+    
+    
+}
